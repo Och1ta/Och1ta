@@ -14,7 +14,7 @@ I am a beginner Python backend developer. I am learning Python and its Django/DR
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 
 ### Telegram
-[![Telegram Badge](https://img.shields.io/badge/-Anton_Kabanov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Memoterasik)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Memoterasik)
 [![Gmail](https://img.shields.io/badge/anton.kabanov.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 <picture>
   <source
