@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Anton
 ### About me:
-I am a beginner Python backend developer. I am learning Python and its Django/DRF frameworks
+I am Python backend developer. I am learning Python and its Django/DRF frameworks
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
